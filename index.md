@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/heliolbs/site-pessoal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Eu vou usar o [editor on GitHub](https://github.com/heliolbs/site-pessoal/edit/gh-pages/index.md) para manter e pré-visualizar o conteúdo do meu site com arquivos de marcação.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre que eu comitar para este repositório, GitHub Pages rodará [Jekyll](https://jekyllrb.com/) para reconstruir as páginas do meu site, a partir do conteúdo dos meus arquivos de marcação.
 
-### Markdown
+### Marcação
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
