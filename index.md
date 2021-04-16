@@ -1,34 +1,34 @@
-## Bem-vindo ao GitHub Pages
+## Bem-vindo ao rascunho do meu site pessoal
 
-Eu vou usar o [editor on GitHub](https://github.com/heliolbs/site-pessoal/edit/gh-pages/index.md) para manter e pré-visualizar o conteúdo do meu site com arquivos de marcação.
+Eu vou usar o [editor do GitHub](https://github.com/heliolbs/site-pessoal/edit/gh-pages/index.md) para manter e pré-visualizar o conteúdo do meu site com arquivos de marcação.
 
 Sempre que eu comitar para este repositório, GitHub Pages rodará [Jekyll](https://jekyllrb.com/) para reconstruir as páginas do meu site, a partir do conteúdo dos meus arquivos de marcação.
 
 ### Marcação
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Marcação é uma sintaxe leve e fácil de usar que serve para estilizar o texto. Ela inclui conversões para:
 
-```markdown
-Syntax highlighted code block
+```marcação
+Bloco de código com sintaxe destacada
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Lista
+- Com marcadores
 
-1. Numbered
-2. List
+1. Lista
+2. Numerada
 
-**Bold** and _Italic_ and `Code` text
+**Negrito** e _Itálico_ e texto de `Código`
 
-[Link](url) and ![Image](src)
+[Link](url) e ![Imagem](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes veja [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Temas Jekyll
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heliolbs/site-pessoal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
