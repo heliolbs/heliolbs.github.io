@@ -1,34 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  <!-- <style>
-    * {
-      box-sizing: border-box;
-    }
-    
-    body {
-      margin: 0;
-      font-family: Arial;
-      font-size: 17px;
-    }
-    
-    #myVideo {
-      position: fixed;
-      right: 0;
-      bottom: 0;
-      min-width: 100%; 
-      min-height: 100%;
-    }
-    
-    .content {
-      position: fixed;
-      bottom: 0;
-      background: rgba(0, 0, 0, 0.5);
-      color: #f1f1f1;
-      width: 100%;
-      padding: 20px;
-    }
-    </style> -->
     
   {%- include head.html -%}
 
@@ -62,7 +33,7 @@
     </main> -->
 
     <div class="container">
-      <video id="video" width="1920" height="1080">
+      <video autoplay muted loop id="video" width="1920" height="1080">
           <source src="video/highrise-solitude.mp4" type="video/mp4" />
       </video>
       <div class="overlay">
