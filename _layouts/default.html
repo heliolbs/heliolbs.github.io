@@ -19,13 +19,6 @@
 
   <body>
 
-    {%- include header.html -%}
-
-    <!-- <video autoplay muted loop id="myVideo">
-      <source src="/video/highrise-solitude.mp4" type="video/mp4">
-      Your browser does not support HTML5 video.
-    </video> -->
-
     <!-- <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
@@ -37,11 +30,12 @@
           <source src="video/highrise-solitude.mp4" type="video/mp4" />
       </video>
       <div class="overlay">
+          {%- include header.html -%}
           {{ content }}
+          {%- include footer.html -%}
       </div>
-    </div>
 
-    {%- include footer.html -%}
+    </div>
 
   </body>
 
