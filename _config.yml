@@ -35,7 +35,6 @@ plugins:
   - jekyll-feed
 
 # Setting page order at nav bar
-yaml
 header_pages:
   - servicos.md
   - interpretacoes.md
