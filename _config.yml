@@ -21,9 +21,7 @@
 title: Hélio LBS
 email: profheliolbs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hélio é linguista computacional, tradutor e intérprete, revisor e formatador de textos, e professor de língua portuguesa e línguas estrangeiras. É aluno de doutorado do Programa de Pós-Graduação em Linguística da Universidade Federal do Ceará.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HelioLeonam
