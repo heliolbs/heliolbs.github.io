@@ -35,6 +35,7 @@ linkedin_username: heliolbs
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Setting page order at nav bar
 header_pages:
