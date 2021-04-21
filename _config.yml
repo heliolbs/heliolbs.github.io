@@ -21,7 +21,7 @@
 title: Hélio LBS
 email: profheliolbs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hélio é linguista computacional, tradutor e intérprete, revisor e formatador de textos, e professor de língua portuguesa e línguas estrangeiras. É aluno de doutorado do <a href="https://ppgl.ufc.br/pt/">Programa de Pós-Graduação em Linguística</a> da <a href="http://www.ufc.br/">Universidade Federal do Ceará</a>.
+  Hélio é linguista computacional, tradutor e intérprete, revisor e formatador de textos, e professor de língua portuguesa e línguas estrangeiras. É aluno de doutorado do Programa de Pós-Graduação em Linguística da Universidade Federal do Ceará.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
