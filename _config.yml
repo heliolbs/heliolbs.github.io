@@ -38,6 +38,8 @@ plugins:
 
 # Setting page order at nav bar
 header_pages:
+  - curriculo.md
+  - aulas.md
   - servicos.md
   - interpretacoes.md
   - about.markdown
