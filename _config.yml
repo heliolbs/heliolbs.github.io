@@ -31,10 +31,6 @@ instagram_username: prof.heliolbs
 linkedin_username: heliolbs
 youtube_channel: UCUaOYCb83aqTGktQ0EVHnZQ
 
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-
 # Build settings
 theme: minima
 plugins:
