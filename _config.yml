@@ -30,6 +30,10 @@ github_username:  heliolbs
 instagram_username: prof.heliolbs
 linkedin_username: heliolbs
 
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+
 # Build settings
 theme: minima
 plugins:
