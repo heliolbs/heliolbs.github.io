@@ -9,20 +9,20 @@ permalink: /disciplina-python/
 Abaixo apresento uma versão traduzida e adaptada da [ementa em inglês][ementa] da disciplina <i>Text Analysis with Python and NLTK</i> (Análise de Texto com Python e NLTK) ofertada pelo [Programa de Pós-Graduação em Estudos da Tradução][poet] da [Universidade Federal do Ceará][ufc] e ministrada pelo [Prof. Dr. Robert de Brose][robert-lattes].
 
 <h3>Análise de Texto com Python e NLTK</h3>
-Código: HGP9029
+Código: HGP9029<br>
 Créditos: 4 (64h)
 
-<strong>Justificativa</strong>
+<strong>Justificativa</strong><br>
 Text analysis through the computational handling of text corpora is an indispensable skill for any researcher interested in conducting research in the field of Discourse Analysis, Machine Translation, Quantitative Methods Analysis in Linguistics, etc. which intersect with Translation Studies. The most widely used platform for conducting text analysis today is the Natural Language Tool Kit (NLTK) combined with Python programming languages. Both are open access and used and implemented in the most different projects in the field of computational linguistics. Researchers and students in Translation Studies usually need to deal with text corpora, as well as perform statistical analysis and other types of manipulation of linguistic and textual data, so that the acquisition of programming skills comes to fill a gap in their training.
 
-<strong>Objetivos</strong>
-– To provide students with Python techniques to handle, wrangle, extract, and analyse text stored in different corpora;
-–  To introduce and train students in the Natural Language Toolkit (NLTK) framework.
+<strong>Objetivos</strong><br>
+– To provide students with Python techniques to handle, wrangle, extract, and analyse text stored in different corpora;<br>
+– To introduce and train students in the Natural Language Toolkit (NLTK) framework.
 
-<strong>Ementa</strong>
+<strong>Ementa</strong><br>
 This course will introduce students to Python techniques necessary to access, wrangle, and analyse different text corpora using Python and NLTK.
 
-<strong>Referências</strong>
+<strong>Referências</strong><br>
 BENGFORT, B.; BILBRO, R.; OJEDA, T. <strong>Applied Text Analysis with Python:</strong> Enabling Language-Aware Data Products with Machine Learning. O’Reilly Media, 2018.<br>
 I BIRD, S.; KLEIN, E.; LOPER, E. <strong>Natural Language Processing with Python:</strong> Analyzing Text with the Natural Language Toolkit. O’Reilly Media, 2009. ISBN 978059655.<br>
 GUTTAG, J. <strong>Introduction to Computation and Programming Using Python:</strong> With Application to Understanding Data. MIT Press, 2016. ISBN 9780262529624.<br>
