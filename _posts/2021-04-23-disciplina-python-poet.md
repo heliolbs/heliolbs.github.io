@@ -7,22 +7,22 @@ permalink: /disciplina-python/
 ---
 
 <style>body {text-align: justify}</style>
-Abaixo apresento uma versão traduzida e adaptada da [ementa em inglês][ementa] da disciplina <i>Text Analysis with Python and NLTK</i> (Análise de Texto com Python e NLTK) ofertada pelo [Programa de Pós-Graduação em Estudos da Tradução][poet] da [Universidade Federal do Ceará][ufc] e ministrada pelo [Prof. Dr. Robert de Brose][robert-lattes].
+Abaixo apresento uma versão traduzida e adaptada da [ementa em inglês][ementa] da disciplina <i>Text Analysis with Python and NLTK</i> (Análise de Texto com Python e [NLTK][nltk]) ofertada pelo [Programa de Pós-Graduação em Estudos da Tradução][poet] da [Universidade Federal do Ceará][ufc] e ministrada pelo [Prof. Dr. Robert de Brose][robert-lattes].
 
-<h3>Análise de Texto com Python e NLTK</h3>
+<h3>Análise de Texto com Python e [NLTK][nltk]</h3>
 Código: HGP9029<br>
 Créditos: 4 (64h)
 
 <strong>Justificativa</strong><br>
 
-Text analysis through the computational handling of text corpora is an indispensable skill for any researcher interested in conducting research in the field of Discourse Analysis, Machine Translation, Quantitative Methods Analysis in Linguistics, etc. which intersect with Translation Studies. The most widely used platform for conducting text analysis today is the Natural Language Tool Kit (NLTK) combined with Python programming languages. Both are open access and used and implemented in the most different projects in the field of computational linguistics. Researchers and students in Translation Studies usually need to deal with text corpora, as well as perform statistical analysis and other types of manipulation of linguistic and textual data, so that the acquisition of programming skills comes to fill a gap in their training.
+A análise de texto através da manipulação computacional de corpora é uma habilidade indispensável para qualquer pesquisador interessado em conduzir pesquisa no campo da Análise do Discurso, da Tradução Automática, Análise de Método Quantitativos em Linguística etc., que interseccionam com Estudos da Tradução. A plataforma mais amplamente usada para conduzir análise de texto hoje é o <i>Natural Language Toolkit </i> ([NLTK][nltk]) combinado a linguagem de programação Python. Ambas são de acesso livre e são usadas e implementadas nos mais diversos projetos no campo da linguística computacional. Pesquisadores e alunos dos Estudos da Tradução geralmente precisam lidar com corpora assim como executar análise estatítica e outros tipos de manipulação de dados linguísticos e textuais de modo que a aquisição de habilidades de programação vem preencher uma lacuna em sua formação.
 
 <strong>Objetivos</strong><br>
-– To provide students with Python techniques to handle, wrangle, extract, and analyse text stored in different corpora;<br>
-– To introduce and train students in the Natural Language Toolkit (NLTK) framework.
+- Fornecer aos alunos técnicas de Python para manipular, transformar, extrair e analisar textos armazenados em diferentes corpora;<br>
+– Apresentar e treinar alunos na biblioteca <i>Natural Language Toolkit</i> ([NLTK][nltk]).
 
 <strong>Ementa</strong><br>
-This course will introduce students to Python techniques necessary to access, wrangle, and analyse different text corpora using Python and NLTK.
+Essa disciplina apresentará alunos às técnicas de Python necessárias para acessar, transformar e analisar diferentes corpora usando Python e [NLTK][nltk].
 
 <strong>Referências</strong><br>
 BENGFORT, B.; BILBRO, R.; OJEDA, T. <strong>Applied Text Analysis with Python:</strong> Enabling Language-Aware Data Products with Machine Learning. O’Reilly Media, 2018.<br>
@@ -38,3 +38,4 @@ VASILIEV, Y. <strong>Natural Language Processing with Python and spaCy</strong>:
 [ementa]: https://ppgpoet.ufc.br/pt/disciplinas-2/hgp9029-text-analysis-with-python-and-nltk/
 [ufc]: http://www.ufc.br/
 [robert-lattes]: http://lattes.cnpq.br/5686148504443158
+[nltk]: https://www.nltk.org/
