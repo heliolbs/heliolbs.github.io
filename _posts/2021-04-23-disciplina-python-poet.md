@@ -6,7 +6,7 @@ categories: update
 permalink: /disciplina-python/
 ---
 
-<p text-align=justify>Abaixo apresento uma versão traduzida e adaptada da [ementa em inglês][ementa] da disciplina <i>Text Analysis with Python and NLTK</i> (Análise de Texto com Python e NLTK) ofertada pelo [Programa de Pós-Graduação em Estudos da Tradução][poet] da [Universidade Federal do Ceará][ufc] e ministrada pelo [Prof. Dr. Robert de Brose][robert-lattes].</p>
+<p style='text-align: justify;'>Abaixo apresento uma versão traduzida e adaptada da [ementa em inglês][ementa] da disciplina <i>Text Analysis with Python and NLTK</i> (Análise de Texto com Python e NLTK) ofertada pelo [Programa de Pós-Graduação em Estudos da Tradução][poet] da [Universidade Federal do Ceará][ufc] e ministrada pelo [Prof. Dr. Robert de Brose][robert-lattes].</p>
 
 <h3>Análise de Texto com Python e NLTK</h3>
 Código: HGP9029<br>
