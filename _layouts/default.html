@@ -3,20 +3,6 @@
     
   {%- include head.html -%}
 
-  <!-- <style>
-  .container { position:relative; }
-  .container video {
-    position:relative;
-    z-index:0;
-  }
-  .overlay {
-    position:absolute;
-    top:0;
-    left:0;
-    z-index:1;
-  }
-  </style> -->
-
   {%- include header.html -%}
 
   <body>
@@ -27,17 +13,9 @@
       </div>
     </main>
 
-    <!-- <div class="container">
-      <video autoplay muted loop id="video" width="800" height="1080">
-          <source src="video/highrise-solitude.mp4" type="video/mp4" />
-      </video>
-      <div class="overlay">
-          {%- include header.html -%}
-          {{ content }}
-          {%- include footer.html -%}
-      </div>
-
-    </div> -->
+    <video id="videoBG" poster="green-particles.png" autoplay muted loop>
+      <source src="green-particles.mp4" type="video/mp4">
+    </video>
 
     {%- include footer.html -%}
 
