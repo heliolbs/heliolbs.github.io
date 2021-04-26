@@ -253,6 +253,11 @@
       @include relative-font-size(1.125);
     }
   }
+
+  p {
+    font-family: 'Roboto', sans-serif;
+  }
+
 }
 
 #videoBG {
