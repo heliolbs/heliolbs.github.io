@@ -3,23 +3,23 @@ layout: page
 title: Currículo
 ---
 
-<strong>Revisor e Formatador de Textos</strong><br>
-Freelance<br><i>desde junho de 2019</i>
+- **Revisor e Formatador de Textos**<br>
+Freelance<br>*desde junho de 2019*
 
-<strong>Tradutor acadêmico (PTBR ⇋ EN)</strong><br>
-Freelance<br><i>desde janeiro de 2019</i>
+- **Tradutor acadêmico (PTBR ⇋ EN)**<br>
+Freelance<br>*desde janeiro de 2019*
 
-<strong>Professor de português (substituto)</strong><br>
-[IFCE Campus Umirim][ifce-umirim]<br><i>janeiro a março de 2020</i>
+- **Professor de português (substituto)**<br>
+[IFCE Campus Umirim][ifce-umirim]<br>*janeiro a março de 2020*
 
-<strong>Educador de inglês</strong><br>
-[S.O.S Educação Profissional][sos]<br><i>agosto de 2014 a julho de 2015</i>
+- **Educador de inglês**<br>
+[S.O.S Educação Profissional][sos]<br>*agosto de 2014 a julho de 2015*
 
-<strong>Professor de francês</strong><br>
-[Núcleo de Línguas Estrangeiras da UECE][one]<br><i>julho de 2012 a fevereiro de 2015</i>
+- **Professor de francês**<br>
+[Núcleo de Línguas Estrangeiras da UECE][one]<br>*julho de 2012 a fevereiro de 2015*
 
-<strong>Professor de francês e inglês</strong><br>
-[Instituto de Educação e Cultura Internacional][ieci]<br><i>maio de 2013 a março de 2014</i>
+- **Professor de francês e inglês**<br>
+[Instituto de Educação e Cultura Internacional][ieci]<br>*maio de 2013 a março de 2014*
 
 [ifce-umirim]: https://ifce.edu.br/umirim
 [sos]: https://www.sos.com.br/
