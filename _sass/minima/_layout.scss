@@ -192,6 +192,7 @@
 }
 
 .post-list {
+  font-family: 'orelega_oneregular'; // Customizado
   margin-left: 0;
   list-style: none;
 
@@ -201,7 +202,6 @@
 }
 
 .post-meta {
-  font-family: 'orelega_oneregular'; // Customizado
   font-size: $small-font-size;
   color: $grey-color;
 }
