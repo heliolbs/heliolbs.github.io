@@ -12,7 +12,7 @@
 
 .site-title {
   // @include relative-font-size(1.625);
-  @include relative-font-size(2);
+  @include relative-font-size(2); // Customizado
   font-family: 'orelega_oneregular'; // Customizado
   // font-weight: 300;
   font-weight: 700;  // Customizado
@@ -205,6 +205,7 @@
 }
 
 .post-meta {
+  font-family: 'robotoregular'; // Customizado
   font-size: $small-font-size;
   color: $grey-color;
 }
