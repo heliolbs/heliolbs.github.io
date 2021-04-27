@@ -12,9 +12,9 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  // font-weight: 300;
   font-family: 'orelega_oneregular'; // Customizado
-  font-weight: 600;
+  // font-weight: 300;
+  font-weight: 600;  // Customizado
   line-height: $base-line-height * $base-font-size * 2.25;
   // letter-spacing: -1px;
   letter-spacing: 2px; // Customizado
@@ -149,7 +149,7 @@
 }
 
 .footer-col-3 {
-  text-align: justify;
+  text-align: justify; // Customizado
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
   width:         calc(45% - (#{$spacing-unit} / 2));
 }
