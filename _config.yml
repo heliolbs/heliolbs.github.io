@@ -42,7 +42,7 @@ header_pages:
   - aulas.md
   - servicos.md
   - interpretacoes.md
-  - about.markdown
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
