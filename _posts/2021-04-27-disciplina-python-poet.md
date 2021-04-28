@@ -34,7 +34,7 @@ Localize a primeira turma da lista, selecione-a e clique em "Adicionar Turmas".<
 
 ![turmas-encontradas](/image/4-turmas-encontradas.jpg){:class="img-responsive"}<br><br>
 
-Por fim, clique em "Confirmar Matrícula".<br><br>
+Por fim, clique em "Confirmar Matrículas".<br><br>
 
 ![outros-programas](/image/2-outros-programas.jpg){:class="img-responsive"}<br><br>
 
