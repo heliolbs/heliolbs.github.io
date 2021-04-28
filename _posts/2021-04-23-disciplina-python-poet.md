@@ -7,7 +7,44 @@ permalink: /disciplina-python/
 ---
 
 <style>body {text-align: justify}</style>
-Abaixo apresento uma versão traduzida e adaptada da [ementa em inglês][ementa] da disciplina *Text Analysis with Python and NLTK* (Análise de Texto com Python e [NLTK][nltk]) ofertada pelo [Programa de Pós-Graduação em Estudos da Tradução][poet] da [Universidade Federal do Ceará][ufc] e ministrada pelo [Prof. Dr. Robert de Brose][robert-lattes].<br>
+
+Hoje trago uma sugestão de disciplina, especialmente para meus colegas do [Programa de Pós-Graduação em Linguística][ppgl] da [Universidade Federal do Ceará][ufc], mas também para qualquer aluno de qualquer programa da UFC. A disciplina se entitula *Text Analysis with Python and NLTK* (Análise de Texto com Python e [NLTK][nltk]), é ofertada pelo [Programa de Pós-Graduação em Estudos da Tradução][poet] da [mesma universidade][ufc] e é ministrada pelo [Prof. Dr. Robert de Brose][robert-lattes]. Abaixo apresento uma versão traduzida e adaptada da [ementa em inglês][ementa] da disciplina, na qual encontramos a justificativa, os objetivos, a ementa em si e as referências.<br>
+<br>
+
+Atualmente grande parte da linguística praticada no Brasil ainda se dá através de um paradigma que se limita a quantidades minúsculas de textos escritos. Há muitas vantagens práticas e teóricas no tratamento de uma quantidade maior de dados. A maior delas é uma validação mais concreta das hipóteses levantadas nos estudos linguísticos.<br>
+<br>
+
+Muitos linguistas pensarm que esse tipo de abordagem só tem aplicação dentro do chamado núcleo duro da linguística, quando na verdade o domínio e o uso desse tipo de recursos fornece um alcance maior para vários ramos dessa ciência, seja Linguística de Texto, seja Sociolinguística, seja toda linha de Linguística Aplicada entre outros. É por esse motivo que sugiro que se matriculem nessa disciplina. Há muito o que se aprender nela.<br>
+<br>
+
+Abaixo descrevo como localizar a disciplina no [SIGAA-UFC][sigaa]. Acesse o sistema normalmente, clique em Ensino > Matrícula On-Line > Realizar Matrícula. Ao chegar à tela abaixo, clique em "Disciplinas".
+
+![opções-de-matrícula](/image/1-opções-de-matrícula.jpg){:class="img-responsive"}
+<br>
+
+Clique em "Ver as turmas de outros programas".<br>
+
+![outros-programas](/image/2-outros-programas.jpg){:class="img-responsive"}
+<br>
+
+Procure por "PROGRAMA DE PÓS-GRADUAÇÃO EM ESTUDOS DA TRADUÇÃO" no menu "Unidade Responsável" e clique em "Buscar".<br>
+
+![turmas-abertas](/image/2-turmas-abertas.jpg){:class="img-responsive"}
+<br>
+
+Localize a primeira turma da lista, selecione-a e clique em "Adicionar Turmas".<br>
+
+![turmas-encontradas](/image/4-turmas-encontradas.jpg){:class="img-responsive"}
+<br>
+
+Por fim, clique em "Confirmar Matrícula".<br>
+
+![outros-programas](/image/2-outros-programas.jpg){:class="img-responsive"}
+<br>
+
+Você tem até amanhã (28/04) para se matricular.<br>
+
+Nos vemos dia 17/05 na disciplina!<br>
 <br>
 
 ---
@@ -44,8 +81,10 @@ HARRISON, M. <strong>Tiny Python 3.6 Notebook</strong>: Curated Examples. Create
 MATTHES, E. <strong>Python Crash Course, 2nd Edition</strong>: A Hands-On, Project-Based Introduction to Programming. No Starch Press, 2019. ISBN 9781593279295.<br>
 VASILIEV, Y. <strong>Natural Language Processing with Python and spaCy</strong>: A Practical Introduction. No Starch Press, 2020. ISBN 9781718500532.
 
+[ppgl]: https://ppgl.ufc.br/pt/
 [poet]: https://ppgpoet.ufc.br/pt/
 [ementa]: https://ppgpoet.ufc.br/pt/disciplinas-2/hgp9029-text-analysis-with-python-and-nltk/
 [ufc]: http://www.ufc.br/
 [robert-lattes]: http://lattes.cnpq.br/5686148504443158
 [nltk]: https://www.nltk.org/
+[sigaa]: https://si3.ufc.br/
