@@ -20,35 +20,25 @@ Muitos linguistas pensarm que esse tipo de abordagem só tem aplicação dentro 
 Abaixo descrevo como localizar a disciplina no [SIGAA-UFC][sigaa]. Acesse o sistema normalmente, clique em Ensino > Matrícula On-Line > Realizar Matrícula. Ao chegar à tela abaixo, clique em "Disciplinas".<br>
 <br>
 
-![opções-de-matrícula](/image/1-opções-de-matrícula.jpg){:class="img-responsive"}
-<br>
+![opções-de-matrícula](/image/1-opções-de-matrícula.jpg){:class="img-responsive"}<br><br>
 
-Clique em "Ver as turmas de outros programas".<br>
-<br>
+Clique em "Ver as turmas de outros programas".<br><br>
 
-![outros-programas](/image/2-outros-programas.jpg){:class="img-responsive"}
-<br>
+![outros-programas](/image/2-outros-programas.jpg){:class="img-responsive"}<br><br>
 
-Procure por "PROGRAMA DE PÓS-GRADUAÇÃO EM ESTUDOS DA TRADUÇÃO" no menu "Unidade Responsável" e clique em "Buscar".<br>
-<br>
+Procure por "PROGRAMA DE PÓS-GRADUAÇÃO EM ESTUDOS DA TRADUÇÃO" no menu "Unidade Responsável" e clique em "Buscar".<br><br>
 
-![turmas-abertas](/image/3-turmas-abertas.jpg){:class="img-responsive"}
-<br>
+![turmas-abertas](/image/3-turmas-abertas.jpg){:class="img-responsive"}<br><br>
 
-Localize a primeira turma da lista, selecione-a e clique em "Adicionar Turmas".<br>
-<br>
+Localize a primeira turma da lista, selecione-a e clique em "Adicionar Turmas".<br><br>
 
-![turmas-encontradas](/image/4-turmas-encontradas.jpg){:class="img-responsive"}
-<br>
+![turmas-encontradas](/image/4-turmas-encontradas.jpg){:class="img-responsive"}<br><br>
 
-Por fim, clique em "Confirmar Matrícula".<br>
-<br>
+Por fim, clique em "Confirmar Matrícula".<br><br>
 
-![outros-programas](/image/2-outros-programas.jpg){:class="img-responsive"}
-<br>
+![outros-programas](/image/2-outros-programas.jpg){:class="img-responsive"}<br><br>
 
-Não perca tempo. Você tem até amanhã, 28/04, para se matricular. Vejo você dia 17/05 na disciplina de Introdução ao Python para Análise de Textos!<br>
-<br>
+Não perca tempo. Você tem até amanhã, 28/04, para se matricular. Vejo você dia 17/05 na disciplina de Introdução ao Python para Análise de Textos!<br><br>
 
 ---
 <br>
