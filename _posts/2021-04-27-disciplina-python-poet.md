@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disciplina de Python na POET-UFC"
-date:   2021-04-27 21:40:00 -0300
+date:   2021-04-26 21:40:00 -0300
 categories: update
 permalink: /disciplina-python/
 ---
