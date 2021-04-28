@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Interpretações Simultâneas
+title: Interpretações
 ---
 
-Página que reúne links de interpretações simultâneas remotas que transmiti pelo YouTube.
+Aqui reuno links de interpretações simultâneas remotas (IRS) que transmiti pelo YouTube.<br>
+<br>
 <div class="iframe-container">
         <iframe width="854"
                 height="480"
