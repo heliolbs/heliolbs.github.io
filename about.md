@@ -8,7 +8,7 @@ permalink: /sobre/
 
 Hélio é linguista computacional, tradutor e intérprete, revisor e formatador de textos, e professor de língua portuguesa e línguas estrangeiras. É aluno de doutorado do Programa de Pós-Graduação em Linguística da Universidade Federal do Ceará. Largou Engenharia Elétrica na UFC no terceiro semestre para mudar para Letras depois de descobrir Chomsky e a linguística gerativa.
 
-Abaixo listo links pessoais e profissionais que talvez possam interessar a vocês.
+Abaixo listo links pessoais e profissionais que talvez possam interessar a vocês.<br>
 
 ## Profissionais
 [YouTube][yt]<br>
@@ -16,10 +16,12 @@ Abaixo listo links pessoais e profissionais que talvez possam interessar a você
 [SuperProf][super]<br>
 [LinkedIn][linkedin]<br>
 [Github][gh]<br>
+<br>
 
 ## Acadêmicos
 [Dissertação][diss]<br>
 [Currículo Lattes][lattes]<br>
+<br>
 
 ## Pessoais
 [Twitter][twitter]<br>
