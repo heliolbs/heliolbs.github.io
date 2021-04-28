@@ -4,27 +4,29 @@ title: Sobre
 permalink: /sobre/
 ---
 
+<style>body {text-align: justify}</style>
+
 Hélio é linguista computacional, tradutor e intérprete, revisor e formatador de textos, e professor de língua portuguesa e línguas estrangeiras. É aluno de doutorado do Programa de Pós-Graduação em Linguística da Universidade Federal do Ceará. Largou Engenharia Elétrica na UFC no terceiro semestre para mudar para Letras depois de descobrir Chomsky e a linguística gerativa.
 
 Abaixo listo links pessoais e profissionais que talvez possam interessar a vocês.
 
 ## Profissionais
-[YouTube][yt]
-[Instagram profissional][insta]
-[SuperProf][super]
-[LinkedIn][linkedin]
-[Github][gh]
+[YouTube][yt]<br>
+[Instagram profissional][insta]<br>
+[SuperProf][super]<br>
+[LinkedIn][linkedin]<br>
+[Github][gh]<br>
 
-# Acadêmicos
-[Dissertação][diss]
-[Currículo Lattes][lattes]
+## Acadêmicos
+[Dissertação][diss]<br>
+[Currículo Lattes][lattes]<br>
 
-# Pessoais
-[Twitter][twitter]
-[Duolingo][duo]
-[Filmow][filmow]
-[Canal de Ciclismo no YouTube][yt-ciclo]
-[Canal no Twitch][twitch]
+## Pessoais
+[Twitter][twitter]<br>
+[Duolingo][duo]<br>
+[Filmow][filmow]<br>
+[Canal de Ciclismo no YouTube][yt-ciclo]<br>
+[Canal no Twitch][twitch]<br>
 
 [yt]: https://www.youtube.com/channel/UCUaOYCb83aqTGktQ0EVHnZQ
 [insta]: https://www.instagram.com/prof.heliolbs/
