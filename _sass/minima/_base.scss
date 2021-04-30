@@ -42,6 +42,7 @@ body::-webkit-scrollbar-track {
 // /* scrollbar itself */
 body::-webkit-scrollbar-thumb {
   background-color: $brand-color;
+  border-radius: 0.5rem;
 }
 
 // /* set button(top and bottom of the scrollbar) */
